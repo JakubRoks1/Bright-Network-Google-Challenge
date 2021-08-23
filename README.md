@@ -7,6 +7,6 @@ components.
 
 # Requirements 
 
-Java 11 or higher 
-JUnit 5.4
+* Java 11 or higher 
+* JUnit 5.4
 
